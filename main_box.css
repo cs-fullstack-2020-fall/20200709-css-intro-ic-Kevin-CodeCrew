@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+h2 {
+    background-color: yellow;
+    text-align: left;
+}
+
+.quote {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid black;
+}
+
+.date {
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+}
+
+.steak_style {
+    text-decoration: underline;
+}
